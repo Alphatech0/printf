@@ -1,1 +1,1 @@
- print function
+printf function output
